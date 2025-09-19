@@ -22,5 +22,5 @@ Dari dataset asli, hanya beberapa kolom yang digunakan karena menyesuaikan denga
 
 📌**Sumber Dataset**
 
-[https://www.kaggle.com/datasets/datatechexplorer/samsung-mobile-sales-dataset](https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset)
+https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset
 
